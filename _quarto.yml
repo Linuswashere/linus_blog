@@ -8,9 +8,8 @@ website:
   title: "Linus' Blog"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
+      - href: "https://linuswashere.github.io/"
+        text: Home Page
 
 format:
   html:
